@@ -1,4 +1,4 @@
-Hi, I’m Nguyen Thai Duong, a software developer from Vietnam but is now living and working in Japan. I mostly work with C# .Net Core and ReactJs but I'm also interested in developing AI/Machine Learning solutions using Python.
+Hi, I’m Nguyen Thai Duong, a software developer from Vietnam but is now living and working in Japan. I mostly work with C# .Net Core and Python but I'm also interested in developing AI/Machine Learning solutions using Keras/Tensorflow.
 
 You can find my LinkedIn profile here.
 
