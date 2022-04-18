@@ -6,7 +6,7 @@ https://www.linkedin.com/in/duong-nguyen-58716271
 
 And this is my personal blog.
 
-https://duongnt.com
+https://duongnt.com/about
 
 <!---
 duongntbk/duongntbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
